@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: VJ Clean WP
- * Plugin URI: https://yourwebsite.com/clean-wp
+ * Plugin URI: https://cloudycode.net/
  * Description: Delete all posts, pages, and plugins with the click of a button.
  * Version: 1.0
- * Author: Your Name
- * Author URI: https://yourwebsite.com
+ * Author: VJRanga
+ * Author URI: https://cloudycode.net/
  */
 
 // Add a button to the admin bar
